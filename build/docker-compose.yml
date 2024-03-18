@@ -1,7 +1,7 @@
 version: "3"
 services:
   nginx:
-    image: cap-image
+    image: capstone-image:first
     ports:
       - 80:80
 
