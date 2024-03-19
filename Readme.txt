@@ -11,6 +11,7 @@ Docker hub URL:
 
 Deployed site url:
   http://3.109.202.201/
+  http://ec2-3-109-202-201.ap-south-1.compute.amazonaws.com/
   
 
 
